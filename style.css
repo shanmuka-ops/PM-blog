@@ -48,6 +48,6 @@
     .sub {
         background-color: red;
         padding: 5px;
-        
+        width:100%;
     }
 }
